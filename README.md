@@ -12,7 +12,7 @@
     <div class="page">
       <header class="header"><h1>Silverio Estevez Morel, BA Information Technology</h1></header>
       <main class+"content">
-<section class="objective"><title class"objective title"><h2> Onjective</h2></title>
+<section class="objective"><h2> Onjective</h2>
     <p></p>Hi, I'm Silverio Estevez Morel! <br/><a href="https://github.com/silver275">Programmer</a>, <a href="https://www.linkedin.com/in/silverio-estevez-8b8aa62b1/">Cybersecurity Professional</a></p>
 <p>I am currently enrolled in DeVry Univeristy and a sophomore in BA Information Technology with a focus on Cyber Security and Newtowkring.</p></section>
 <section class="projects">
