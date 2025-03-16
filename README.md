@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Silverio Estevez Morel</title>
   <meta name="author" content="Silverio Estevez" />
   <meta name="keywords" content="github, cyber security, networking, information technology" />
   <meta name="description" content="github landing page" />
