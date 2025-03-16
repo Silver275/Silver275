@@ -9,7 +9,7 @@
 </head>
   <body>
     <div class="page">
-      <header class="header"><h1>Silverio Estevez Morel, BA Information Technology</h1><br/><a href="https://github.com/silver275">Programmer</a>, <a href="https://www.linkedin.com/in/silverio-estevez-8b8aa62b1/">Cybersecurity Professional</a></header>
+      <header class="header"><h1>Silverio Estevez Morel, BA Information Technology</h1><a href="https://github.com/silver275">Programmer</a>, <a href="https://www.linkedin.com/in/silverio-estevez-8b8aa62b1/">Cybersecurity Professional</a></header>
       <main class+"content">
 <section class="objective"><h2> Objective</h2>
     <p></p>Hi, I'm Silverio Estevez Morel!</p>
