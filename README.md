@@ -28,6 +28,7 @@ Take a look at my [College Projects Repo](https://github.com/your-username/colle
 
 ## 📫 Let’s Connect
 
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [GitHub](https://github.com/your-username)
+- [LinkedIn](www.linkedin.com/in/silverio-estevez-8b8aa62b1
+)
+
 
